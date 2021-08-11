@@ -1,4 +1,8 @@
+<?php
 
+include('assets/include/sessions.php');
+
+?>
 
 <!DOCTYPE html>
 
