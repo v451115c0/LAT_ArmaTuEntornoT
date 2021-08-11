@@ -25,7 +25,8 @@ else
 	$country_abi = $_SESSION["country"];
 	$rule_environment = $_SESSION["rule_environment"];
 	$discount_abi = $_SESSION["discount"];
-	$code_sponsor_abi_query = $_SESSION["sponsor"];
+	//$code_sponsor_abi_query = $_SESSION["sponsor"];
+	$code_sponsor_abi_query = 9845903;
 }
 
 ?>
