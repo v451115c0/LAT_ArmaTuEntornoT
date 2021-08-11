@@ -1,5 +1,5 @@
 <?php
-
+exit('hola mundo');
 include('assets/include/sessions.php');
 
 ?>
