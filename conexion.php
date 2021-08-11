@@ -15,7 +15,7 @@ function connect_new_tv()
 	mysqli_select_db($conn, "mitiendanikken");
 	mysqli_set_charset( $conn, 'utf8');
 
-	return $conn;
+	return $conn; 
 }
 
 function disconnect($result)
